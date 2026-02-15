@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "scrcpy-gui",
+    "slug": "scrcpy-gui",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic"
+  }
+}
